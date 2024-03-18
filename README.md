@@ -13,11 +13,11 @@
 
 <div align="center">
 
- 🎓 Doing Internship at Occdec as Tech Lead developing AI for IoT in Python
+ 🎓 Doing Internship at Occdec as Technical Lead for a team of softwear engineers developing AI in the Python language
  
  👨‍💻 Currently working on **a peer to pee app** 
  
- 📖 I’m also learning **Terraform, Solidity, Pytorch**
+ 📖 I’m also learning **Terraform, Solidity and Data Structures & Algorithms **
 
 💬 Feel free to get in touch or ask me about **Java, Oracle  or anything else [here](https://github.com/MarcusH3/MarcusH3/issues)**
 
@@ -34,7 +34,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<h2 align="center">🧰Toolbox </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,css,html,git,docker,kubernetes,github,linux,bash,python,nodejs,react" />
+</div>
 
+<br/>
+<hr/>
 
 
  
