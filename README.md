@@ -19,30 +19,40 @@
  
  📖 I’m also learning **Terraform, Solidity and Data Structures & Algorithms **
 
-💬 Feel free to get in touch or ask me about **Java, Oracle  or anything else [here](https://github.com/MarcusH3/MarcusH3/issues)**
+💬 Get in touch or ask me about **My Projects, Java, Oracle or anything [here](https://github.com/MarcusH3/MarcusH3/issues)**
+
+💭 Philosophy Admirer | 📚 Lifelong Learner | 🎵 Music Enthusiast
 
  </div>
 
 <div align="center"> 
-  <a href="https://marcush3.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://marcush3.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-242938?style=for-the-badge&logo=About.me&logoColor=pink" />
   </a>
  <a href="mailto:marcus.hurtigh@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-242938?style=for-the-badge&logo=microsoft-outlook&logoColor=pink" />
   </a>
-  <a href="https://www.linkedin.com/in/mhurtigh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/mhurtigh">
+    <img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=pink"/>
   </a>
 </div>
 <h2 align="center">🧰Toolbox </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,css,html,git,docker,kubernetes,github,linux,bash,python,nodejs,react" />
+    <img alt="Skill Icons" src="https://skillicons.dev/icons?i=java,spring,js,ts,css,html,git,docker,kubernetes,github,linux,bash,python,nodejs,react" />
 </div>
 
 <br/>
 <hr/>
 
+<div align="center">
+  <h2> Contributions </h2>
+  <br>
+  <img alt="Snk contribution" src="https://raw.githubusercontent.com/MarcusH3/MarcusH3/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
  
  
