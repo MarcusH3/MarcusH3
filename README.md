@@ -6,9 +6,9 @@
 </h1>
 
 <h3 align="center"> Softwear engineer student with appreciation
-
-  for
-  
+   
+   for 
+   
   Aesthetics & Code
 
 <div align="center">
@@ -21,7 +21,9 @@
 
 💬 Get in touch or ask me about **My Projects, Java, Oracle or anything [here](https://github.com/MarcusH3/MarcusH3/issues)**
 
-💭 Philosophy Admirer | 📚 Lifelong Learner | 🎵 Music Enthusiast
+⚡Facts about me:⚡
+
+💭 Likes Philosophy | 📚 100+ Sci-Fi books read | 🎵 Music Enthusiast
 
  </div>
 
