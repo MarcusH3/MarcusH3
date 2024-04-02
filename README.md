@@ -4,13 +4,13 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Capriola&pause=1000&color=FFB6AE&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Marcus;Welcome+to+my+GitHub!💫;" />
 </h1>
 
-<h3 align="center"> Softwear engineer student with appreciation for Aesthetics & Code
+<h3 align="center"> Softwear engineer with appreciation for Aesthetics & Code
 
 </h3><div align="center">
 
  🎓 Doing Internship at Occdec as Technical Lead for a team of softwear engineers developing AI in the Python language
  
- 👨‍💻 Currently working on **a peer to pee app** 
+ 👨‍💻 Currently working on **a peer to peer app** 
  
  📖 I’m also learning **Terraform, Solidity and Data Structures & Algorithms**
 
