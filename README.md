@@ -4,33 +4,25 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Capriola&pause=1000&color=FFB6AE&size=36&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Marcus;Welcome+to+my+GitHub!💫;" />
 </h1>
 
-<h3 align="center"> Softwear engineer with appreciation for Aesthetics & Code
+<h3 align="center"> Software engineer with appreciation for Aesthetics, Books & Code
 
 </h3><div align="center">
-
- 🎓 Doing Internship at Occdec as Technical Lead for a team of softwear engineers developing AI in the Python language
  
  👨‍💻 Currently working on **a peer to peer app** 
  
  📖 I’m also learning **Terraform, Solidity and Data Structures & Algorithms**
 
-💬 Get in touch or ask me about **My Projects, Java, Oracle or anything [here](https://github.com/MarcusH3/MarcusH3/issues)**
+💬 Get in touch or ask me about **My Project [here](https://github.com/MarcusH3/MarcusH3/issues)**
 
 ⚡Facts about me:⚡
 
-💭 Likes Philosophy | 📚 100+ Sci-Fi books read | 🎵 Music Enthusiast
+💭 Likes Philosophy | 📚 100+ Sci-Fi books read |
 
 </div>
 
 <div align="center"> 
-  <a href="https://marcush3.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-242938?style=for-the-badge&logo=About.me&logoColor=pink" />
-  </a>
  <a href="mailto:marcus.hurtigh@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-242938?style=for-the-badge&logo=microsoft-outlook&logoColor=pink" />
-  </a>
-  <a href="https://www.linkedin.com/in/mhurtigh">
-    <img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=pink"/>
   </a>
 </div>
 <h2 align="center">🧰Toolbox </h2>
