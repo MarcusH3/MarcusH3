@@ -8,15 +8,12 @@
 
 </h3><div align="center">
  
- 👨‍💻 Currently working on **a peer to peer app** 
- 
- 📖 I’m also learning **Terraform, Solidity and Data Structures & Algorithms**
 
 💬 Get in touch or ask me about **My Project [here](https://github.com/MarcusH3/MarcusH3/issues)**
 
 ⚡Facts about me:⚡
 
-💭 Likes Philosophy | 📚 100+ Sci-Fi books read |
+💭 Likes Philosophy | 📚 100+ Sci-Fi books read 
 
 </div>
 
